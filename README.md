@@ -29,9 +29,18 @@ It is implemented and tested on Windows with VS2022.
 ```
 
 - Create a new empty project with Visual Studio and name it whatever you like.
-
 - In Solution Explorer, add all .h files to *Header files* and all .cpp files to *Source files*.
 - Build & run.
+
+### Result
+
+shadow mapping
+
+![shadow](https://github.com/bryceyin13/Software-Renderer/blob/main/image/shadow.png)
+
+SSAO + shadow mapping (See the shallow shadow around the man's eyes, nose and mouth.)
+
+![SSAO](https://github.com/bryceyin13/Software-Renderer/blob/main/image/shadow%2BSSAO.png)
 
 ### References
 
